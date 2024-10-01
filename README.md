@@ -7,6 +7,10 @@
 - [默认大小](theme/1x)
 - [4倍放大](theme/4x)
 
+## 图片示例
+![IDR_PROFILE_AVATAR_27@4x.png](theme%2F4x%2FIDR_PROFILE_AVATAR_27%404x.png)
+![IDR_PROFILE_AVATAR_28@4x.png](theme%2F4x%2FIDR_PROFILE_AVATAR_28%404x.png)
+
 ## 使用技术
 
 - **Inpaint-web**：基于深度学习的 AI 图像增强工具，支持修复图像、移除不需要的对象和提升图像分辨率等功能。
